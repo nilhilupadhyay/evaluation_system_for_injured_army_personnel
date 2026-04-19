@@ -192,7 +192,7 @@ def index():
             
             
             sender_email = "nikhilupadhyayin@gmail.com"  
-            sender_password = "sawsomjryrocpnef"  
+            sender_password = "*****"  
             #recipient_email = "nikhil2020upadhyay@gmail.com" 
 
 
